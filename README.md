@@ -58,7 +58,7 @@ I designed a new live scorebug that:
 
 ## 💾 Data & Metadata
 
-See `Final_Scorebug_Metadata.csv` for details on each example:
+See `metadata.csv` for details on each example:
 - Screenshot name  
 - Date  
 - Match  
